@@ -1,0 +1,7 @@
+flask
+google-generativeai
+moviepy
+openai-whisper
+Werkzeug
+python-dotenv
+google.generativeai
